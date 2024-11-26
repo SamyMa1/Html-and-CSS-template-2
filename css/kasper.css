@@ -195,7 +195,7 @@ header nav .burger {
 
 /* starting the landing section */
 .landing {
-  background-image: url(/images/landing.jpg);
+  background-image: url(images/landing.jpg);
   background-size: cover;
   height: 100vh;
   position: relative;
@@ -773,7 +773,7 @@ header nav .burger {
 .quote {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url(/images/quote.jpg);
+  background-image: url(images/quote.jpg);
   position: relative;
   color: white;
   text-align: center;
@@ -922,7 +922,7 @@ header nav .burger {
 .subscribe {
   padding-top: 100px;
   padding-bottom: 100px;
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(images/subscribe.jpg);
   position: relative;
 }
 .subscribe::before {
@@ -1080,7 +1080,7 @@ header nav .burger {
 /* endof contact section */
 /* start of foot section */
 .footer {
-  background-image: url(/images/subscribe.jpg);
+  background-image: url(images/subscribe.jpg);
   position: relative;
   background-size: cover;
   color: white;
